@@ -1,0 +1,110 @@
+header{
+	/*background :#2c3e50;*/
+	background:#232323;
+	color :#fff;
+	padding: 0px 35px;	
+}
+#registro{
+	width: 70%;
+	margin:0px auto;
+	
+}
+#form_registro{
+	background: #9B9898;
+	width: 40%;
+	margin: 20px auto 50px;
+	padding: 20px 15px;
+	border-radius: 2px;
+
+ }
+ #form_login{
+ 	width: 45%;
+	margin: 120px auto 50px;
+	padding: 20px 15px;
+	border-radius: 2px;
+
+ }
+ #container{
+ 	width: 80%;
+ 	margin: 0 auto;
+ }
+ #cont{
+ 	margin-top: 30px;
+ 	width: 80%;
+ 	margin: 0 auto;	
+
+ }
+ #form_registro input[type="text"],#form_registro input[type="password"],
+ #form_registro input[type="email"],#form_registro select{
+ 	width: 100%;
+ 	margin-bottom: 5px;
+ }
+ #btn_Registrar{
+ 	margin-left: 75%;
+ 	margin-top: 10px;
+ }
+ #btn_login{
+ 	margin-top: 10px;
+ 	margin-left: 80%;
+ }
+
+ /**/
+ .barra-nav{
+ 	height: 80px;
+ 	padding: 10px 0;
+ 	box-sizing: border-box;
+ 	width: 70%;
+ }
+ .logo{
+ 	margin-top:15px;
+ 	font-size: 20px;
+ 	font-weight: 700; 		
+ 	display: inline-block;
+ 	cursor: pointer;
+ }
+ /*.nav{
+ 	margin-top:15px;
+ }
+ .nav a{
+ 	color:white;
+ }*/
+
+.navbar-nav > li > .dropdown-menu { background-color: #F2EFEF; }
+
+.item{
+	color:white;
+}
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;    
+}
+
+#tblCategoria{
+	width: 60%;
+	margin:0 auto;
+	margin-top: 20px;
+}
+
+#buscar{
+	background: #617487;
+	color:white;
+}
+#search{
+	padding-left: 4px;
+}
+#editable{
+	width:200px;
+}
+.hidden{
+	display: none;
+}
+#formCargos{
+	width:40%;
+	margin: 0px auto;
+}
+.campo{
+	width: 100%;
+}
+#btnCargo{
+	margin-top: 12px;
+	
+}
